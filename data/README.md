@@ -37,7 +37,7 @@ Images were pooled from the original training and test folders before the 150-im
 
 Therefore, the train/validation/test split used in this repository should be interpreted as an exploratory patch-level split of the prepared mini dataset rather than an independent split preserving the original source partitions.
 
-## Expected Directory Structure
+## Dataset Setup
 
 To run the notebook, place the prepared datasets inside the `data/` directory as follows:
 
