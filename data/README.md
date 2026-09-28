@@ -41,6 +41,7 @@ Therefore, the train/validation/test split used in this repository should be int
 
 To run the notebook, place the prepared datasets inside the `data/` directory as follows:
 
+```text
 data/
 ├── mini_dataset_3ch/
 │ ├── bare_soil/
@@ -55,6 +56,7 @@ data/
     ├── high_stress/
     ├── low_stress/
     └── rust/
+
 
 The notebook expects the dataset path:
 
